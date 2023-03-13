@@ -1,0 +1,4 @@
+304, house ronaldo, house, 20222 machester, 1525, 400.0, 4000.0, 2022/04/04, fernardo, sing, 4545, fernando@gmail.com, 2099 barcelona, pitso, tladi, 545, pittladi@gmail.com, 5345, ronaldo, christiano, 434, cr7@manu.com, 20888 leicestar, yes
+263, house guardiola, house, 2900 manchester, 542, 600.0, 200.0, 2022/04/01, leroy, sane, 466, leroy@bayern, 2800 munich, guardiola, pep, 8585, pep@city.com, 29000 west london, de bruyne, kevin, 563563, kdb@city.com, 26000 manchester, no
+822, house raneri, house, 2022 leicester, 581, 3000.0, 40.0, 2021/04/12, kante, ng'olo, 5654656, kante@chelsea, 1324 eastlondon, mahrez, riyad, 4545565767, mahrez@gmail.com, 2012 manchaster, raneri, cloudio, 5454545, cloudio@gmail, 141 west london, no
+

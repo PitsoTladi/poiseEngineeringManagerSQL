@@ -1,0 +1,203 @@
+Project Report. 
+=================
+
+Project Name : 5645
+Project Number64645
+Physical Adress456456
+Erf Number1172
+456456
+no
+
+Customer Details. 
+=================
+Surname: 64564
+Name: 65464
+contact Number: 56456
+Email Address: 56546
+Pysical Address: 56546
+
+Contractor Details. 
+=================
+Surname: 4645
+Name: 654654
+contact Number: 456546
+Email Address: 545654
+Pysical Address: 464
+
+Architect Details. 
+=================
+Surname: 4556456
+Name: 456456
+contact Number: 6456
+Email Address: 6546
+Pysical Address: 55646
+
+-----------------------------------------------------
+The total fee charge of the project is: R645645.0
+The total amount being paid of the project is: R546456.0
+The total balance to be paid is: R99189.0
+Date complete : 2022-04-12
+
+-----------------------------------------------------Project Report. 
+=================
+
+Project Name : 5645
+Project Number64645
+Physical Adress456456
+Erf Number1172
+456456
+yes
+
+Customer Details. 
+=================
+Surname: 64564
+Name: 65464
+contact Number: 56456
+Email Address: 56546
+Pysical Address: 56546
+
+Contractor Details. 
+=================
+Surname: 4645
+Name: 654654
+contact Number: 456546
+Email Address: 545654
+Pysical Address: 464
+
+Architect Details. 
+=================
+Surname: 4556456
+Name: 456456
+contact Number: 6456
+Email Address: 6546
+Pysical Address: 55646
+
+-----------------------------------------------------
+The total fee charge of the project is: R645645.0
+The total amount being paid of the project is: R546456.0
+The total balance to be paid is: R99189.0
+Date complete : 2022-04-12
+
+-----------------------------------------------------Project Report. 
+=================
+
+Project Name : 66546
+Project Number64564
+Physical Adress64564
+Erf Number1279
+6456
+no
+
+Customer Details. 
+=================
+Surname: 654654
+Name: 6546
+contact Number: 64564
+Email Address: 654654
+Pysical Address: 456546
+
+Contractor Details. 
+=================
+Surname: 65465
+Name: 6546
+contact Number: 56546
+Email Address: 54654
+Pysical Address: 645645
+
+Architect Details. 
+=================
+Surname: 64564
+Name: 565464
+contact Number: 556456
+Email Address: 56456
+Pysical Address: 645645
+
+-----------------------------------------------------
+The total fee charge of the project is: R654654.0
+The total amount being paid of the project is: R6456.0
+The total balance to be paid is: R648198.0
+Date complete : 2022-04-12
+
+-----------------------------------------------------Project Report. 
+=================
+
+Project Name : 5645
+Project Number64645
+Physical Adress456456
+Erf Number1172
+456456
+no
+
+Customer Details. 
+=================
+Surname: 64564
+Name: 65464
+contact Number: 56456
+Email Address: 56546
+Pysical Address: 56546
+
+Contractor Details. 
+=================
+Surname: 4645
+Name: 654654
+contact Number: 456546
+Email Address: 545654
+Pysical Address: 464
+
+Architect Details. 
+=================
+Surname: 4556456
+Name: 456456
+contact Number: 6456
+Email Address: 6546
+Pysical Address: 55646
+
+-----------------------------------------------------
+The total fee charge of the project is: R645645.0
+The total amount being paid of the project is: R546456.0
+The total balance to be paid is: R99189.0
+Project complete : Yes
+Date complete : 2022-04-12
+
+-----------------------------------------------------Project Report. 
+=================
+
+Project Name : 5645
+Project Number64645
+Physical Adress456456
+Erf Number1172
+456456
+no
+
+Customer Details. 
+=================
+Surname: 64564
+Name: 65464
+contact Number: 56456
+Email Address: 56546
+Pysical Address: 56546
+
+Contractor Details. 
+=================
+Surname: 4645
+Name: 654654
+contact Number: 456546
+Email Address: 545654
+Pysical Address: 464
+
+Architect Details. 
+=================
+Surname: 4556456
+Name: 456456
+contact Number: 6456
+Email Address: 6546
+Pysical Address: 55646
+
+-----------------------------------------------------
+The total fee charge of the project is: R645645.0
+The total amount being paid of the project is: R546456.0
+The total balance to be paid is: R99189.0
+Project complete : Yes
+Date complete : 2022-04-12
+
+-----------------------------------------------------
